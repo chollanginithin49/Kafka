@@ -1,0 +1,10 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Öà’¥£3
+W
+java:S6213":Rename this variable to not match a restricted identifier.(ŞŸøœ8²¤¥£3
+J
+java:S1481"(Remove this unused "key" local variable.(ïí”¤ùÿÿÿÿ8´¤¥£3
+L	java:S106"+Replace this use of System.out by a logger.(Ñ¿íöÿÿÿÿÿ8µ¤¥£3
+L	java:S106"+Replace this use of System.out by a logger.(¥¶Ëúÿÿÿÿÿ8êâš¥£3
+L	java:S106("+Replace this use of System.out by a logger.(‡ıÛÿÿÿÿÿ8Üœ¥£3
